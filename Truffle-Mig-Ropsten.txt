@@ -1,0 +1,128 @@
+┌──(blockchain02🐯bcindev2)-[~/workspace/myCoffeDAap]
+└─$ truffle migrate reset --network ropsten reset
+
+Compiling your contracts...
+===========================
+✔ Fetching solc version list from solc-bin. Attempt #1
+> Everything is up to date, there is nothing to compile.
+
+
+
+Starting migrations...
+======================
+> Network name:    'ropsten'
+> Network id:      3
+> Block gas limit: 8000000 (0x7a1200)
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'FarmerRole'
+   ----------------------
+   > transaction hash:    0x3170c5d4dce79288d7beca2bd90fa96122ec9b120e550481f77569913af2413a
+   > Blocks: 0            Seconds: 4
+   > contract address:    0x69e389896a95AE24730C75a5B2C5eE7C44ed40ca
+   > block number:        12295693
+   > block timestamp:     1653435150
+   > account:             0x7833c282A266a079E2984879E83E969B85c01406
+   > balance:             4.95947086
+   > gas used:            329262 (0x5062e)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00658524 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 1 (block: 12295694)
+   > confirmation number: 2 (block: 12295695)
+
+   Deploying 'DistributorRole'
+   ---------------------------
+   > transaction hash:    0x2fa612c5b636d85cf5e349df79d0582b51817cca68650ac14fabcef192ad2b7a
+   > Blocks: 1            Seconds: 29
+   > contract address:    0x6b960f40923bdE9735b4BCF3E73389dd9A225a19
+   > block number:        12295697
+   > block timestamp:     1653435226
+   > account:             0x7833c282A266a079E2984879E83E969B85c01406
+   > balance:             4.95285538
+   > gas used:            330774 (0x50c16)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00661548 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 1 (block: 12295698)
+   > confirmation number: 2 (block: 12295699)
+
+   Deploying 'RetailerRole'
+   ------------------------
+   > transaction hash:    0x000247a35803ba6e5068805a278d439e43d1a2104fce1d12a3b4e8dcf81e16a6
+   > Blocks: 1            Seconds: 61
+   > contract address:    0x59d05bD700AF03a8362A21837aBDB75090733f49
+   > block number:        12295700
+   > block timestamp:     1653435324
+   > account:             0x7833c282A266a079E2984879E83E969B85c01406
+   > balance:             4.94625262
+   > gas used:            330138 (0x5099a)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00660276 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 1 (block: 12295701)
+   > confirmation number: 2 (block: 12295702)
+
+   Deploying 'ConsumerRole'
+   ------------------------
+   > transaction hash:    0x4dc8461c54bbd3d48c1a731e842a9862e396731710c4e1add2e78d6bb76d7ce2
+   > Blocks: 1            Seconds: 34
+   > contract address:    0xEdB22c8c98AC986bb8Ec7D206789A3445F706288
+   > block number:        12295703
+   > block timestamp:     1653435484
+   > account:             0x7833c282A266a079E2984879E83E969B85c01406
+   > balance:             4.9396501
+   > gas used:            330126 (0x5098e)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00660252 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 1 (block: 12295704)
+   > confirmation number: 2 (block: 12295705)
+
+   Deploying 'SupplyChain'
+   -----------------------
+   > transaction hash:    0x9ba56ad16195a813eec2ba53d51f73bc2076f43711606e61fb42ba20f95302b9
+   > Blocks: 2            Seconds: 26
+   > contract address:    0x4fb71D923b72e85619D97B28C87277FE90FA19Cf
+   > block number:        12295707
+   > block timestamp:     1653435579
+   > account:             0x7833c282A266a079E2984879E83E969B85c01406
+   > balance:             4.86226226
+   > gas used:            3869392 (0x3b0ad0)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.07738784 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 1 (block: 12295708)
+   > confirmation number: 2 (block: 12295709)
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.10379384 ETH
+
+
+Summary
+=======
+> Total deployments:   5
+> Final cost:          0.10379384 ETH
+
+
+                                                                      
