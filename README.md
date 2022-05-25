@@ -37,10 +37,11 @@ Web3.js v1.5.3
 ````
 ┌─[blockchain03@bciotdev3]─[~/workspace/myCoffeeDApp]
 └──╼ $truffle compile
-````
+
 Compiling your contracts...
 ===========================
 > Everything is up to date, there is nothing to compile.
+````
 
 5. Truffle Migrate rinkbey network 
 
