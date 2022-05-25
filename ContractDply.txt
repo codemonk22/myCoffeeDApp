@@ -1,0 +1,130 @@
+┌─[blockchain03@bciotdev3]─[~/workspace/coffee-supply-chain-dApp]
+└──╼ $truffle migrate reset --network rinkeby reset
+This version of µWS is not compatible with your Node.js build:
+
+Error: Cannot find module './uws_linux_arm64_83.node'
+Falling back to a NodeJS implementation; performance may be degraded.
+
+
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+Migrations dry-run (simulation)
+===============================
+> Network name:    'rinkeby-fork'
+> Network id:      4
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > block number:        10735389
+   > block timestamp:     1653447589
+   > account:             0xBb108964af881f000EE929bde6881D29a244Ee9B
+   > balance:             1.910155028585465734
+   > gas used:            274520 (0x43058)
+   > gas price:           2.500000011 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00068630000301972 ETH
+
+   -------------------------------------
+   > Total cost:     0.00068630000301972 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'SupplyChain'
+   -----------------------
+   > block number:        10735391
+   > block timestamp:     1653447593
+   > account:             0xBb108964af881f000EE929bde6881D29a244Ee9B
+   > balance:             1.90319269356035539
+   > gas used:            2738996 (0x29cb34)
+   > gas price:           2.500000009 gwei
+   > value sent:          0 ETH
+   > total cost:          0.006847490024650964 ETH
+
+   -------------------------------------
+   > Total cost:     0.006847490024650964 ETH
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.007533790027670684 ETH
+
+
+
+
+Starting migrations...
+======================
+> Network name:    'rinkeby'
+> Network id:      4
+> Block gas limit: 29970705 (0x1c95111)
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0x158b0b53569369efd0a796dd59849dcf11ee5898930cc26668a9bf5962ced37b
+   > Blocks: 2            Seconds: 16
+   > contract address:    0xDc4C3c72077AACcCDC2066849255e4E76C5639c1
+   > block number:        10735395
+   > block timestamp:     1653447614
+   > account:             0xBb108964af881f000EE929bde6881D29a244Ee9B
+   > balance:             1.910155028585191214
+   > gas used:            274520 (0x43058)
+   > gas price:           2.500000012 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00068630000329424 ETH
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.00068630000329424 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'SupplyChain'
+   -----------------------
+   > transaction hash:    0xa9a52f0142b4392346ff25c5d9816f10850b84d802af86738ead0094fe0cca11
+   > Blocks: 3            Seconds: 34
+   > contract address:    0x5079294455157EEb0a6A71338bdc8a2aD840a5f2
+   > block number:        10735398
+   > block timestamp:     1653447659
+   > account:             0xBb108964af881f000EE929bde6881D29a244Ee9B
+   > balance:             1.903192693546248076
+   > gas used:            2738996 (0x29cb34)
+   > gas price:           2.500000014 gwei
+   > value sent:          0 ETH
+   > total cost:          0.006847490038345944 ETH
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.006847490038345944 ETH
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.007533790041640184 ETH
+
+
+┌─[blockchain03@bciotdev3]─[~/workspace/coffee-supply-chain-dApp]
+└──╼ $
+
+┌─[blockchain03@bciotdev3]─[~/workspace/coffee-supply-chain-dApp]
+└──╼ $date
+Tue 24 May 2022 10:03:45 PM CDT
+┌─[blockchain03@bciotdev3]─[~/workspace/coffee-supply-chain-dApp]
+└──╼ $
