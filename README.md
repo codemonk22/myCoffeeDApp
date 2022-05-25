@@ -244,6 +244,8 @@ Tue 24 May 2022 10:03:45 PM CDT
 
 ```
 ## Wallet Transcation Details
+![Wallet Transcation Details](/images/wallet-det01.png)
+![Wallet Transcation Details](/images/Screen01.png)
 ![Wallet Transcation Details](/images/Screen01.png)
 
 ## UML Diagrams
