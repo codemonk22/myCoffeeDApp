@@ -231,7 +231,7 @@ Tue 24 May 2022 10:03:45 PM CDT
 [Browsersync] Access URLs:
  --------------------------------------
        Local: http://localhost:3000
-    External: http://192.168.2.133:3000
+    External: http://192.168.2.135:3000
  --------------------------------------
           UI: http://localhost:3001
  UI External: http://localhost:3001
