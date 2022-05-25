@@ -251,17 +251,11 @@ Tue 24 May 2022 10:03:45 PM CDT
 ![Wallet Transcation Details](/images/Screen02.png)
 ![Wallet Transcation Details](/images/Screen03.png)
 
-## UML Diagrams
-![Activity diagram](./diagrams/activity-coffee-chain.png)
-
-![Sequence diagram](./diagrams/sequence-coffee-chain.png)
-![State diagram](./diagrams/state-coffee-chain.png)
-![Data-model diagram](./diagrams/data-model-coffee-chain.png)
 
 ## Contract details
 ## Coffee Bean Full Sequence. From Farmers ==> End Consumer Sequesnce Transcation Details
 
-https://rinkeby.etherscan.io/address/0xBb108964af881f000EE929bde6881D29a244Ee9B - Main Contract details 
+Rinkeby Network Contract Deployment [Rinkeby Network](https://rinkeby.etherscan.io/address/0xBb108964af881f000EE929bde6881D29a244Ee9B/)
 
 > Harvest Transcation [HARVEST](https://rinkeby.etherscan.io/tx/0xb783a16441e3f7445e7c0a1fda3c70a36c4f9ba9481080171fd579def01cdbb5/).
 > Purchase Transcation [PURCHASE ITEM](https://rinkeby.etherscan.io/tx/0x6dbc4507510bb8c1d5fd4ad981cf7e04f746c70d2c49d039c9231ccc082ba96f/).
@@ -271,3 +265,11 @@ https://rinkeby.etherscan.io/address/0xBb108964af881f000EE929bde6881D29a244Ee9B 
 > Shipment Transcation [SHIP ITEM](https://rinkeby.etherscan.io/tx/0x36db50fc853fbf34a40383732b520032ca831d5b0c3fd067d605cb7e4bd0de89/),
 > Add Retailer Transcation [ADD RETAILER](https://rinkeby.etherscan.io/tx/0x50a2c4a07f5386f484873b11b3430edf6baf64dda3c083c5e70b5a7a0c36a5e4/),
 > Add Consumer [ADD CONSUMER](https://rinkeby.etherscan.io/tx/0xdde4990870e2e1a15b332c0e4894a062437f0b171f3297842b2294b3f713879d/).
+
+
+## UML Diagrams
+![Activity diagram](./diagrams/activity-coffee-chain.png)
+
+![Sequence diagram](./diagrams/sequence-coffee-chain.png)
+![State diagram](./diagrams/state-coffee-chain.png)
+![Data-model diagram](./diagrams/data-model-coffee-chain.png)
