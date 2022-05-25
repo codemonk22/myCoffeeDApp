@@ -167,10 +167,6 @@ Summary
 > Total deployments:   2
 > Final cost:          0.007533790041640184 ETH
 
-
-┌─[blockchain03@bciotdev3]─[~/workspace/myCoffeeDApp]
-└──╼ $
-
 ┌─[blockchain03@bciotdev3]─[~/workspace/myCoffeeDApp]
 └──╼ $date
 Tue 24 May 2022 10:03:45 PM CDT
