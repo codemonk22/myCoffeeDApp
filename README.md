@@ -248,7 +248,6 @@ Tue 24 May 2022 10:03:45 PM CDT
 
 ## Browser Screen Display
 ![Wallet Transcation Details](/images/Screen01.png)
-![Wallet Transcation Details](/images/Screen02.png)
 ![Wallet Transcation Details](/images/Screen03.png)
 
 ## UML Diagrams
