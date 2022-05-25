@@ -254,16 +254,12 @@ Tue 24 May 2022 10:03:45 PM CDT
 ## Coffee Bean Full Sequence. From Farmers ==> End Consumer Sequesnce Transcation Details
 
 https://rinkeby.etherscan.io/address/0xBb108964af881f000EE929bde6881D29a244Ee9B - Main Contract details 
-```
-Harvest Transcation [HARVEST](https://rinkeby.etherscan.io/tx/0xb783a16441e3f7445e7c0a1fda3c70a36c4f9ba9481080171fd579def01cdbb5/).
-Purchase Transcation [PURCHASE ITEM](https://rinkeby.etherscan.io/tx/0x6dbc4507510bb8c1d5fd4ad981cf7e04f746c70d2c49d039c9231ccc082ba96f).
-```
-Please view the newly created star Token on [Etherscan](https://rinkeby.etherscan.io/tx/0x07d7dd5c1b6885aedb7488e45c36537e5a409bf33dd4d0ee2746d8d3b599c3bc).
 
-- 
-https://rinkeby.etherscan.io/tx/0x56446ca05bbd97788770dc886eed80f9d2e669b284be7b62d0ce9dd37862b215 - PACK ITEM
-https://rinkeby.etherscan.io/tx/0x25af07f2ed00af263fbed9b6a1adf886e94901c5049b4a9717839770190c4383 - SELL ITEM
-https://rinkeby.etherscan.io/tx/0x06a3d01c7eaf2e2a3287f9fbd4fec03947add99d2a5fe9a2a70602ee6943c55c - BUY ITEM
-https://rinkeby.etherscan.io/tx/0x36db50fc853fbf34a40383732b520032ca831d5b0c3fd067d605cb7e4bd0de89 - SHIP ITEM
-https://rinkeby.etherscan.io/tx/0x50a2c4a07f5386f484873b11b3430edf6baf64dda3c083c5e70b5a7a0c36a5e4 - ADD RETAILER
-https://rinkeby.etherscan.io/tx/0xdde4990870e2e1a15b332c0e4894a062437f0b171f3297842b2294b3f713879d - ADD CONSUMER
+Harvest Transcation [HARVEST](https://rinkeby.etherscan.io/tx/0xb783a16441e3f7445e7c0a1fda3c70a36c4f9ba9481080171fd579def01cdbb5/),
+Purchase Transcation [PURCHASE ITEM](https://rinkeby.etherscan.io/tx/0x6dbc4507510bb8c1d5fd4ad981cf7e04f746c70d2c49d039c9231ccc082ba96f/),
+Purchase Item Packing Transcation [PACK ITEM](https://rinkeby.etherscan.io/tx/0x56446ca05bbd97788770dc886eed80f9d2e669b284be7b62d0ce9dd37862b215/),
+Sell Transcation [SELL ITEM](https://rinkeby.etherscan.io/tx/0x25af07f2ed00af263fbed9b6a1adf886e94901c5049b4a9717839770190c4383/),
+Buy Transcation [BUY ITEM](https://rinkeby.etherscan.io/tx/0x06a3d01c7eaf2e2a3287f9fbd4fec03947add99d2a5fe9a2a70602ee6943c55c/),
+Shipment Transcation [SHIP ITEM](https://rinkeby.etherscan.io/tx/0x36db50fc853fbf34a40383732b520032ca831d5b0c3fd067d605cb7e4bd0de89/),
+Add Retailer Transcation [ADD RETAILER](https://rinkeby.etherscan.io/tx/0x50a2c4a07f5386f484873b11b3430edf6baf64dda3c083c5e70b5a7a0c36a5e4/),
+Add Consumer [ADD CONSUMER](https://rinkeby.etherscan.io/tx/0xdde4990870e2e1a15b332c0e4894a062437f0b171f3297842b2294b3f713879d/).
