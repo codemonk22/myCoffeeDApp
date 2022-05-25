@@ -42,6 +42,43 @@ Compiling your contracts...
 ===========================
 > Everything is up to date, there is nothing to compile.
 ````
+5. Truffle Test
+````
+┌──(blockchain02🐯bcindev2)-[~/workspace/myCoffeDAap]
+└─$ truffle test   
+Using network 'development'.
+
+
+Compiling your contracts...
+===========================
+✔ Fetching solc version list from solc-bin. Attempt #1
+> Everything is up to date, there is nothing to compile.
+
+ganache-gui accounts used here...
+Contract Owner: accounts[0]  0x27D8D15CbC94527cAdf5eC14B69519aE23288B95
+Farmer: accounts[1]  0x018C2daBef4904ECbd7118350A0c54DbeaE3549A
+Distributor: accounts[2]  0xCe5144391B4aB80668965F2Cc4f2CC102380Ef0A
+Retailer: accounts[3]  0x460c31107DD048e34971E57DA2F99f659Add4f02
+Consumer: accounts[4]  0xD37b7B8C62BE2fdDe8dAa9816483AeBDBd356088
+
+
+Contract: SupplyChain
+✓ Testing smart contract function harvestItem() that allows a farmer to harvest coffee (147ms)
+✓ Testing smart contract function processItem() that allows a farmer to process coffee (85ms)
+✓ Testing smart contract function packItem() that allows a farmer to pack coffee (101ms)
+✓ Testing smart contract function sellItem() that allows a farmer to sell coffee (72ms)
+✓ Testing smart contract function buyItem() that allows a distributor to buy coffee (96ms)
+✓ Testing smart contract function shipItem() that allows a distributor to ship coffee (66ms)
+✓ Testing smart contract function receiveItem() that allows a retailer to mark coffee received (109ms)
+✓ Testing smart contract function purchaseItem() that allows a consumer to purchase coffee (100ms)
+✓ Testing smart contract function fetchItemBufferOne() that allows anyone to fetch item details from blockchain
+✓ Testing smart contract function fetchItemBufferTwo() that allows anyone to fetch item details from blockchain
+✓ Testing smart contract function harvestItem() will not allow the same UPC to be re-harvested (68ms)
+
+
+11 passing (974ms)
+
+````
 
 5. Truffle Migrate rinkbey network 
 6. 
