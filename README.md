@@ -243,6 +243,8 @@ Tue 24 May 2022 10:03:45 PM CDT
 [Browsersync] Couldn't open browser (if you are using BrowserSync in a headless environment, you might want to set the open option to false)
 
 ```
+## Wallet Transcation Details
+
 
 ## UML Diagrams
 ![Activity diagram](./diagrams/activity-coffee-chain.png)
