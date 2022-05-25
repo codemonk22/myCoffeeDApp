@@ -258,14 +258,14 @@ Rinkeby Network Contract Deployment [Rinkeby Network](https://rinkeby.etherscan.
 
 ### Coffee Bean Crop Full Sequence. From Farmers to End Consumer Sequesnce Transcation Details
 
-> - Harvest Transcation [HARVEST](https://rinkeby.etherscan.io/tx/0xb783a16441e3f7445e7c0a1fda3c70a36c4f9ba9481080171fd579def01cdbb5/). <br>
-> - Purchase Transcation [PURCHASE ITEM](https://rinkeby.etherscan.io/tx/0x6dbc4507510bb8c1d5fd4ad981cf7e04f746c70d2c49d039c9231ccc082ba96f/). <br>
+> - [x] Harvest Transcation [HARVEST](https://rinkeby.etherscan.io/tx/0xb783a16441e3f7445e7c0a1fda3c70a36c4f9ba9481080171fd579def01cdbb5/). <br>
+> - [x] Purchase Transcation [PURCHASE ITEM](https://rinkeby.etherscan.io/tx/0x6dbc4507510bb8c1d5fd4ad981cf7e04f746c70d2c49d039c9231ccc082ba96f/). <br>
 > - [x] Purchase Item Packing Transcation [PACK ITEM](https://rinkeby.etherscan.io/tx/0x56446ca05bbd97788770dc886eed80f9d2e669b284be7b62d0ce9dd37862b215/). <br>
 > - [x] Sell Transcation [SELL ITEM](https://rinkeby.etherscan.io/tx/0x25af07f2ed00af263fbed9b6a1adf886e94901c5049b4a9717839770190c4383/). <br>
-> Buy Transcation [BUY ITEM](https://rinkeby.etherscan.io/tx/0x06a3d01c7eaf2e2a3287f9fbd4fec03947add99d2a5fe9a2a70602ee6943c55c/). <br>
-> Shipment Transcation [SHIP ITEM](https://rinkeby.etherscan.io/tx/0x36db50fc853fbf34a40383732b520032ca831d5b0c3fd067d605cb7e4bd0de89/). <br>
-> Add Retailer Transcation [ADD RETAILER](https://rinkeby.etherscan.io/tx/0x50a2c4a07f5386f484873b11b3430edf6baf64dda3c083c5e70b5a7a0c36a5e4/). <br>
-> Add Consumer [ADD CONSUMER](https://rinkeby.etherscan.io/tx/0xdde4990870e2e1a15b332c0e4894a062437f0b171f3297842b2294b3f713879d/). <br>
+> - [x] Buy Transcation [BUY ITEM](https://rinkeby.etherscan.io/tx/0x06a3d01c7eaf2e2a3287f9fbd4fec03947add99d2a5fe9a2a70602ee6943c55c/). <br>
+> - [x] Shipment Transcation [SHIP ITEM](https://rinkeby.etherscan.io/tx/0x36db50fc853fbf34a40383732b520032ca831d5b0c3fd067d605cb7e4bd0de89/). <br>
+> - [x] Add Retailer Transcation [ADD RETAILER](https://rinkeby.etherscan.io/tx/0x50a2c4a07f5386f484873b11b3430edf6baf64dda3c083c5e70b5a7a0c36a5e4/). <br>
+> - [x] Add Consumer [ADD CONSUMER](https://rinkeby.etherscan.io/tx/0xdde4990870e2e1a15b332c0e4894a062437f0b171f3297842b2294b3f713879d/). <br>
 
 
 ## UML Diagrams
