@@ -1,4 +1,4 @@
-┌─[blockchain03@bciotdev3]─[~/workspace/coffee-supply-chain-dApp]
+┌─[blockchain03@bciotdev3]─[~/workspace/myCoffeeDApp]
 └──╼ $truffle migrate reset --network rinkeby reset
 This version of µWS is not compatible with your Node.js build:
 
@@ -120,11 +120,11 @@ Summary
 > Final cost:          0.007533790041640184 ETH
 
 
-┌─[blockchain03@bciotdev3]─[~/workspace/coffee-supply-chain-dApp]
+┌─[blockchain03@bciotdev3]─[~/workspace/myCoffeeDApp]
 └──╼ $
 
-┌─[blockchain03@bciotdev3]─[~/workspace/coffee-supply-chain-dApp]
+┌─[blockchain03@bciotdev3]─[~/workspace/myCoffeeDApp]
 └──╼ $date
 Tue 24 May 2022 10:03:45 PM CDT
-┌─[blockchain03@bciotdev3]─[~/workspace/coffee-supply-chain-dApp]
+┌─[blockchain03@bciotdev3]─[~/workspace/myCoffeeDApp]
 └──╼ $
