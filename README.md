@@ -251,6 +251,7 @@ Tue 24 May 2022 10:03:45 PM CDT
 ![Data-model diagram](./diagrams/data-model-coffee-chain.png)
 
 ## Contract details
+## Coffee Bean Full Sequence. From Farmers ==> End Consumer Sequesnce Transcation Details
 
 https://rinkeby.etherscan.io/address/0xBb108964af881f000EE929bde6881D29a244Ee9B - Main Contract details 
 
