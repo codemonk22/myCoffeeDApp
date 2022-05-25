@@ -245,11 +245,15 @@ Tue 24 May 2022 10:03:45 PM CDT
 ```
 ## Wallet Transcation Details
 ![Wallet Transcation Details](/images/wallet-det01.png)
+
+## Browser Screen Display
 ![Wallet Transcation Details](/images/Screen01.png)
-![Wallet Transcation Details](/images/Screen01.png)
+![Wallet Transcation Details](/images/Screen02.png)
+![Wallet Transcation Details](/images/Screen03.png)
 
 ## UML Diagrams
 ![Activity diagram](./diagrams/activity-coffee-chain.png)
+
 ![Sequence diagram](./diagrams/sequence-coffee-chain.png)
 ![State diagram](./diagrams/state-coffee-chain.png)
 ![Data-model diagram](./diagrams/data-model-coffee-chain.png)
