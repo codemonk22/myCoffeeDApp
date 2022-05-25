@@ -7,12 +7,13 @@ Coffee Supply Chain DApp
 This project shows how possible it is to make the supply chain management of any business possible by identifying all the assets and actors and they interact with each other transparently on the blockchain until the product of that business finally reaches it's final consumer.
 
 ## Library Versions
-
+````
 - Truffle v5.5.4 (core: 5.5.4)
 - Solidity - 0.8.9 (solc-js)
 - Node v14.17.5
 - Web3.js v1.5.3
 - @truffle/hdwallet-provider - ^2.0.4
+````
 
 ## Getting Started
 
