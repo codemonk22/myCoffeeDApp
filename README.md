@@ -44,8 +44,8 @@ Compiling your contracts...
 ````
 5. Truffle Test
 ````
-┌──(blockchain02🐯bcindev2)-[~/workspace/myCoffeDAap]
-└─$ truffle test   
+┌─[blockchain03@bciotdev3]─[~/workspace/myCoffeeDApp]
+└──╼ $truffle test   
 Using network 'development'.
 
 
@@ -80,8 +80,8 @@ Contract: SupplyChain
 
 ````
 
-5. Truffle Migrate rinkbey network 
-6. 
+6. Truffle Migrate rinkbey network 
+
 ````
 ┌─[blockchain03@bciotdev3]─[~/workspace/myCoffeeDApp]
 └──╼ $truffle migrate reset --network rinkeby reset
@@ -210,9 +210,38 @@ Tue 24 May 2022 10:03:45 PM CDT
 ┌─[blockchain03@bciotdev3]─[~/workspace/myCoffeeDApp]
 └──╼ $
 ````
-
+7. Dev Run Local Browser 
 ```
-    npm run dev
+┌─[blockchain03@bciotdev3]─[~/workspace/myCoffeeDApp]
+└──╼ $npm run dev
+
+> fair-trade-coffee-dapp@1.0.0 dev /home/blockchain02/workspace/myCoffeDAap
+> lite-server
+
+** browser-sync config **
+{
+  injectChanges: false,
+  files: [ './**/*.{html,htm,css,js}' ],
+  watchOptions: { ignored: 'node_modules' },
+  server: {
+    baseDir: [ './', './src', './build/contracts' ],
+    middleware: [ [Function (anonymous)], [Function (anonymous)] ]
+  }
+}
+[Browsersync] Access URLs:
+ --------------------------------------
+       Local: http://localhost:3000
+    External: http://192.168.2.133:3000
+ --------------------------------------
+          UI: http://localhost:3001
+ UI External: http://localhost:3001
+ --------------------------------------
+[Browsersync] Serving files from: ./
+[Browsersync] Serving files from: ./src
+[Browsersync] Serving files from: ./build/contracts
+[Browsersync] Watching files...
+[Browsersync] Couldn't open browser (if you are using BrowserSync in a headless environment, you might want to set the open option to false)
+
 ```
 
 ## UML Diagrams
