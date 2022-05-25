@@ -258,7 +258,7 @@ Rinkeby Network Contract Deployment [Rinkeby Network](https://rinkeby.etherscan.
 
 ### Coffee Bean Crop Full Sequence. From Farmers to End Consumer Sequesnce Transcation Details
 
-> Harvest Transcation [HARVEST](https://rinkeby.etherscan.io/tx/0xb783a16441e3f7445e7c0a1fda3c70a36c4f9ba9481080171fd579def01cdbb5/).
+> Harvest Transcation [HARVEST](https://rinkeby.etherscan.io/tx/0xb783a16441e3f7445e7c0a1fda3c70a36c4f9ba9481080171fd579def01cdbb5/). <br>
 > Purchase Transcation [PURCHASE ITEM](https://rinkeby.etherscan.io/tx/0x6dbc4507510bb8c1d5fd4ad981cf7e04f746c70d2c49d039c9231ccc082ba96f/).
 > Purchase Item Packing Transcation [PACK ITEM](https://rinkeby.etherscan.io/tx/0x56446ca05bbd97788770dc886eed80f9d2e669b284be7b62d0ce9dd37862b215/),
 > Sell Transcation [SELL ITEM](https://rinkeby.etherscan.io/tx/0x25af07f2ed00af263fbed9b6a1adf886e94901c5049b4a9717839770190c4383/),
