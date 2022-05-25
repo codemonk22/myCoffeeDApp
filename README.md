@@ -256,7 +256,7 @@ Tue 24 May 2022 10:03:45 PM CDT
 
 Rinkeby Network Contract Deployment [Rinkeby Network](https://rinkeby.etherscan.io/address/0xBb108964af881f000EE929bde6881D29a244Ee9B/)
 
-## Coffee Bean Full Sequence. From Farmers ==> End Consumer Sequesnce Transcation Details
+### Coffee Bean Crop Full Sequence. From Farmers to End Consumer Sequesnce Transcation Details
 
 > Harvest Transcation [HARVEST](https://rinkeby.etherscan.io/tx/0xb783a16441e3f7445e7c0a1fda3c70a36c4f9ba9481080171fd579def01cdbb5/).
 > Purchase Transcation [PURCHASE ITEM](https://rinkeby.etherscan.io/tx/0x6dbc4507510bb8c1d5fd4ad981cf7e04f746c70d2c49d039c9231ccc082ba96f/).
