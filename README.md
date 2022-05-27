@@ -6,6 +6,25 @@ Coffee Supply Chain DApp
 
 This project shows how possible it is to make the supply chain management of any business possible by identifying all the assets and actors and they interact with each other transparently on the blockchain until the product of that business finally reaches it's final consumer.
 
+
+## Ooty Coffee Bean Supply Chain - Business Process
+```
+                                    UML Coffeed Bean Supply Chain - Activity Diagrams
+```
+![Activity diagram](/images/UML_Diagram-01.png)
+```
+                                    UML Coffeed Bean Supply Chain - Sequence Diagrams 
+```
+![Sequence diagram](/images/UML_Diagram-02.png)
+```
+                                    UML Coffeed Bean Supply Chain - State Diagrams 
+```
+![State diagram](/images/UML_Diagram-03.png)
+```
+                                    UML Coffeed Bean Supply Chain - Data Model Diagrams 
+```
+![Data-model diagram](/images/UML_Diagram-03.png)
+
 ## Library Versions
 ````
 - Truffle v5.5.4 (core: 5.5.4)
@@ -267,21 +286,3 @@ Rinkeby Network Contract Deployment [Rinkeby Network](https://rinkeby.etherscan.
 > - [x] Add Retailer Transcation [ADD RETAILER](https://rinkeby.etherscan.io/tx/0x50a2c4a07f5386f484873b11b3430edf6baf64dda3c083c5e70b5a7a0c36a5e4/). <br>
 > - [x] Add Consumer [ADD CONSUMER](https://rinkeby.etherscan.io/tx/0xdde4990870e2e1a15b332c0e4894a062437f0b171f3297842b2294b3f713879d/). <br>
 
-
-## Ooty Coffee Bean Supply Chain - Business Process
-```
-UML Coffeed Bean Supply Chain Activity Diagrams 
-```
-![Activity diagram](/images/UML_Diagram-01.png)
-```
-UML Coffeed Bean Supply Chain Sequence Diagrams 
-```
-![Sequence diagram](/images/UML_Diagram-02.png)
-```
-UML Coffeed Bean Supply Chain State Diagrams 
-```
-![State diagram](/images/UML_Diagram-03.png)
-```
-UML Coffeed Bean Supply Chain Data Model Diagrams 
-```
-![Data-model diagram](/images/UML_Diagram-03.png)
