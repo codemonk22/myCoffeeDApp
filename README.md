@@ -1,5 +1,4 @@
-# myCoffeeDApp
-Coffee Supply Chain DApp
+# myCoffeeDApp - Coffee Supply Chain DApp
 
 
 # Coffee Supply Chain dApp — Tracking items through the supply chain
