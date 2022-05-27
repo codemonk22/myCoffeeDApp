@@ -268,11 +268,20 @@ Rinkeby Network Contract Deployment [Rinkeby Network](https://rinkeby.etherscan.
 > - [x] Add Consumer [ADD CONSUMER](https://rinkeby.etherscan.io/tx/0xdde4990870e2e1a15b332c0e4894a062437f0b171f3297842b2294b3f713879d/). <br>
 
 
-## UML Activity Diagrams 
-
-### Coffee Supply Chain
+## Ooty Coffee Bean Supply Chain - Business Process
+```
+UML Coffeed Bean Supply Chain Activity Diagrams 
+```
 ![Activity diagram](/images/UML_Diagram-01.png)
-
-![Sequence diagram](./diagrams/sequence-coffee-chain.png)
-![State diagram](./diagrams/state-coffee-chain.png)
-![Data-model diagram](./diagrams/data-model-coffee-chain.png)
+```
+UML Coffeed Bean Supply Chain Sequence Diagrams 
+```
+![Sequence diagram](/images/UML_Diagram-02.png)
+```
+UML Coffeed Bean Supply Chain State Diagrams 
+```
+![State diagram](/images/UML_Diagram-03.png)
+```
+UML Coffeed Bean Supply Chain Data Model Diagrams 
+```
+![Data-model diagram](/images/UML_Diagram-03.png)
