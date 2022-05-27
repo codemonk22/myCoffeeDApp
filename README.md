@@ -268,8 +268,10 @@ Rinkeby Network Contract Deployment [Rinkeby Network](https://rinkeby.etherscan.
 > - [x] Add Consumer [ADD CONSUMER](https://rinkeby.etherscan.io/tx/0xdde4990870e2e1a15b332c0e4894a062437f0b171f3297842b2294b3f713879d/). <br>
 
 
-## UML Diagrams
-![Activity diagram](./diagrams/activity-coffee-chain.png)
+## UML Activity Diagrams 
+
+### Coffee Supply Chain
+![Activity diagram](/images/UML_Diagram-01.png)
 
 ![Sequence diagram](./diagrams/sequence-coffee-chain.png)
 ![State diagram](./diagrams/state-coffee-chain.png)
