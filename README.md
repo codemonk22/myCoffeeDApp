@@ -286,3 +286,10 @@ Rinkeby Network Contract Deployment [Rinkeby Network](https://rinkeby.etherscan.
 > - [x] Add Retailer Transcation [ADD RETAILER](https://rinkeby.etherscan.io/tx/0x50a2c4a07f5386f484873b11b3430edf6baf64dda3c083c5e70b5a7a0c36a5e4/). <br>
 > - [x] Add Consumer [ADD CONSUMER](https://rinkeby.etherscan.io/tx/0xdde4990870e2e1a15b332c0e4894a062437f0b171f3297842b2294b3f713879d/). <br>
 
+### Raise a PR or report an Issue
+
+```
+Feel free to raise a Pull Request if you find a bug/scope of improvement in the current repository.
+
+ If you have suggestions or facing issues, you can log in issue.
+```
