@@ -6,19 +6,19 @@ This project shows how possible it is to make the supply chain management of any
 
 ## Ooty Coffee Bean Supply Chain - Business Process
 ```
-                                    UML Coffeed Bean Supply Chain - Activity Diagrams
+                       UML Coffeed Bean Supply Chain - Activity Diagrams
 ```
 ![Activity diagram](/images/UML_Diagram-01.png)
 ```
-                                    UML Coffeed Bean Supply Chain - Sequence Diagrams 
+                       UML Coffeed Bean Supply Chain - Sequence Diagrams 
 ```
 ![Sequence diagram](/images/UML_Diagram-02.png)
 ```
-                                    UML Coffeed Bean Supply Chain - State Diagrams 
+                       UML Coffeed Bean Supply Chain - State Diagrams 
 ```
 ![State diagram](/images/UML_Diagram-03.png)
 ```
-                                    UML Coffeed Bean Supply Chain - Data Model Diagrams 
+                       UML Coffeed Bean Supply Chain - Data Model Diagrams 
 ```
 ![Data-model diagram](/images/UML_Diagram-03.png)
 
