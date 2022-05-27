@@ -20,7 +20,7 @@ This project shows how possible it is to make the supply chain management of any
 ```
                        UML Coffeed Bean Supply Chain - Data Model Diagrams 
 ```
-![Data-model diagram](/images/UML_Diagram-03.png)
+![Data-model diagram](/images/UML_Diagram-04.png)
 
 ## Library Versions
 ````
